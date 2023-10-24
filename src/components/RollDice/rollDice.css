@@ -1,0 +1,19 @@
+.rollDice button {
+  border: none;
+  background-color: #e1e4e6;
+  padding: 10px;
+  border-radius: 20px;
+  transition: all ease 200ms;
+}
+
+.rollDice button:hover {
+  background-color: #afb2b4;
+}
+
+.rollDice button:focus {
+  outline: none;
+}
+
+.rollDice button:active {
+  transform: scale(0.95);
+}
